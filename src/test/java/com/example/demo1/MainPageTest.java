@@ -17,7 +17,7 @@ public class MainPageTest {
 
     @BeforeAll
     public static void setUp() {
-
+//
     }
 
     @AfterEach
